@@ -16,8 +16,8 @@ export const App = () => {
       justifyContent: 'center',
       alignItems: 'center',
       padding: 15,
-      fontSize: 40,
-      color: '#010101',}}
+      color: '#010101',
+      background: '#f5f5dc',}}
       >
     <Profile
     username={user.username}
